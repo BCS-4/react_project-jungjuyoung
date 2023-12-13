@@ -698,7 +698,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"MintNFT.sol": "MintNFT"
+			"contracts/MintNFT.sol": "MintNFT"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -816,7 +816,7 @@
 				"dweb:/ipfs/QmVBEei6aTnvYNZp2CHYVNKyZS4q1KkjANfY39WVXZXVoT"
 			]
 		},
-		"MintNFT.sol": {
+		"contracts/MintNFT.sol": {
 			"keccak256": "0x4d120dda93fdfbc94d540999e9255a8f2c1c8251edab00820276b330434e04bc",
 			"license": "MIT",
 			"urls": [
