@@ -98,7 +98,7 @@ const My: FC = () => {
 
   return (
     <>
-      <div className="grow">
+      <div className="grow bg-blue-100">
         <div className="flex justify-between p-2">
           <button className="hover:text-gray-500" onClick={onClickSaleStatus}>
             Sale Approved: {saleStatus ? "TRUE" : "FALSE"}

@@ -21,8 +21,8 @@ const Header: FC<HeaderProps> = ({ account, setAccount }) => {
   };
 
   return (
-    <header className="p-2 flex justify-between">
-      <div className="flex gap-4">
+    <header className="p-2 flex justify-between bg-gray-100">
+      <div className="flex gap-4 ">
         <Link to="/">Home</Link>
         <Link to="/my">My</Link>
         <Link to="/sale">Sale</Link>
